@@ -6,7 +6,7 @@ A web browser page reloading plugin for the [Sublime Text 2](http://sublimetext.
 Installing
 -----
 
-Install with [Sublime Package Control](http://wbond.net/sublime_packages/package_control "Sublime Package Control"), search for LiveReload and install.
+Install with [Sublime Package Control](http://wbond.net/sublime_packages/package_control "Sublime Package Control"), add this repository, search for LiveReload and install.
 
 Devel branch
 -----
